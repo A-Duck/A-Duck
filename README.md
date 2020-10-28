@@ -1,8 +1,9 @@
-### Hi there 👋 I'm Chris
+### Hi there 👋 I'm A-Duck
 
-I'm A-Duck but not a real one.
+Not a real one though.
+My name is Chris.
 
-Sometimes I make some stuff then I put it here - because you never know what someone else might fine useful.
+Sometimes I make some stuff and put it here - because you never know what someone else might find useful.
 
 <!--
 **A-Duck/A-Duck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
